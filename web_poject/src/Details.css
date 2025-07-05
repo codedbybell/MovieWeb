@@ -1,0 +1,37 @@
+.movie-detail {
+    width: 100%;
+    margin: auto;
+    background-color: #4e0606;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+}
+.movie-detail h1 {
+    font-size: 30px;
+    text-align: center;
+}
+.movie-detail img {
+    width: 1200px;
+    height: 500px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.movie-detail button {
+    background-color: #0c0c0c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+.movie-detail button:hover {
+    background-color: #1c1b1b;
+}
+.movie-info-group {
+  display: flex;
+  gap: 20px;
+  margin-top: 15px;
+  font-size: 18px;
+}
+
